@@ -3,8 +3,6 @@
 > A multi-threaded, real-time chat application that enables communication between multiple PCs over a Local Area Network (LAN) using Python Socket Programming.
 
 **Author:** Riddhi Sahu | RA2311030020069  
-**Programme:** B.Tech CSE (Cybersecurity) | Third Year  
-**Institution:** SRM Institute of Science and Technology, Ramapuram, Chennai
 
 ---
 
@@ -212,9 +210,3 @@ This project is developed as part of the academic curriculum at SRMIST, Ramapura
 ## 👤 Author
 
 **Riddhi Sahu**  
-B.Tech CSE (Cybersecurity), Third Year  
-SRM Institute of Science and Technology, Ramapuram, Chennai  
-Roll No: RA2311030020069  
-Email: riddhi2379@gmail.com | rs0163@srmist.edu.in  
-GitHub: [github.com/Riddhi-crypto](https://github.com/Riddhi-crypto)  
-LinkedIn: [linkedin.com/in/riddhi-sahu-158276296](https://www.linkedin.com/in/riddhi-sahu-158276296/)
