@@ -2,7 +2,7 @@
 
 > A multi-threaded, real-time chat application that enables communication between multiple PCs over a Local Area Network (LAN) using Python Socket Programming.
 
-**Author:** Riddhi Sahu | RA2311030020069  
+**Author:** Riddhi Sahu 
 
 ---
 
